@@ -1,0 +1,34 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "097f456e700f42a5b4f95af1fe895317",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblMenuItem4",
+        "text": "My Notes",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem4",
+    "instanceOf": "097f456e700f42a5b4f95af1fe895317",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m31ee18e905b4527897e128716faa8bd",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem4",
+    "pf": "frmViewTopic",
+    "topLevelInstanceKUID": "ma6d04610d5c48a1bc2456647ca1cc99",
+    "wType": "Label"
+}

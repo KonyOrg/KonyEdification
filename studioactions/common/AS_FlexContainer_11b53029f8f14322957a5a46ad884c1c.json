@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_11b53029f8f14322957a5a46ad884c1c": {
+        "id": "AS_FlexContainer_11b53029f8f14322957a5a46ad884c1c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterHamburgerMenu",
+            "type": "masters",
+            "KUID": "40fb23802ab74a8bb4c1179b828946f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__6f6c97ca96814f7684169b31ea908217",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var swipeID = eventobject.setGestureRecognizer(constants.GESTURE_TYPE_SWIPE, {fingers:1, swipedistance:100, swipevelocity:90}, swipeHandler);\n/**\n * @function swipeHandler\n *\n */\nfunction swipeHandler (widget, gestureInfo, context) {\n  if (gestureInfo.swipeDirection === 1)\n    closeHamburgerMenu ();\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

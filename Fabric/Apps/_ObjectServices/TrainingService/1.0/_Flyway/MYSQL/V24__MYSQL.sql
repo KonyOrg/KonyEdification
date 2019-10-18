@@ -1,0 +1,2 @@
+ALTER TABLE `Modules`
+	ADD CONSTRAINT `d7b7697ccf136fc9fa492ff645f259` FOREIGN KEY(`CourseID`) REFERENCES `Courses`(`CourseID`);

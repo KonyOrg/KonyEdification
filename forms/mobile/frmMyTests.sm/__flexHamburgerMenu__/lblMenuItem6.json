@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "f391bd39183743568b83d549081c2842",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem6",
+        "text": "My Bookmarks",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem6",
+    "instanceOf": "f391bd39183743568b83d549081c2842",
+    "isvisible": true,
+    "kuid": "mcd7aff775f64a1daa6b278261281efb",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem6",
+    "pf": "frmMyTests",
+    "topLevelInstanceKUID": "m43ffd61a2ab4f80bfa0f30de2404872",
+    "wType": "Label"
+}

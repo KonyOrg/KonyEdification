@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10c98b7a4b848b8b7023515f09b16fb",
+    "_srcKuid_": "0e3f96801f984abe8a68ea670fb04d0d",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblUserName",
+        "text": "Pico Rech",
+        "textStyle": {}
+    },
+    "id": "lblUserName",
+    "instanceOf": "0e3f96801f984abe8a68ea670fb04d0d",
+    "isvisible": true,
+    "kuid": "md89d5171e214c749649ec3e877cec94",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexUserProfile",
+    "pf": "frmVideoTutorials",
+    "topLevelInstanceKUID": "m4bc1830c32840a384bc03b32667c507",
+    "wType": "Label"
+}

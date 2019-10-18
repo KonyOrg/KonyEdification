@@ -1,0 +1,28 @@
+{
+    "AS_Form_eb7578806cea466da0569ea05411389c": {
+        "id": "AS_Form_eb7578806cea466da0569ea05411389c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "44069db196444ed49ca816541bcf5bb5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c43f5ded21fb45aebf2175961a361b3d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetHamburgerMenuSelection",
+            "display": "resetHamburgerMenuSelection",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

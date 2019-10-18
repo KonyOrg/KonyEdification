@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_a92307ab046f4d8bb44138b58640df5f": {
+        "id": "AS_FlexContainer_a92307ab046f4d8bb44138b58640df5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ae9f34d724404e51a2ba8f9729b73856"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__8b9d79fe9650485e888b19d406baaf46",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmLogin.flexRememberUserIDCheckbox.skin === sknFlex7)\n{\n\tfrmLogin.flexRememberUserIDCheckbox.skin = sknFlex8;\n}\nelse if (frmLogin.flexRememberUserIDCheckbox.skin === sknFlex8)\n{\n\tfrmLogin.flexRememberUserIDCheckbox.skin = sknFlex7;\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

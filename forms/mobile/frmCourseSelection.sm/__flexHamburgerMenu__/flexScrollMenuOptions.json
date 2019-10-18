@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa0343b1be124f3ba9a2fca10d2e42fc",
+    "_srcKuid_": "6c37e04fff8e4cec967c6ca7e95503db",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "flexMenuItem1",
+        "flexMenuItem2",
+        "flexMenuItem3",
+        "flexMenuItem4",
+        "flexMenuItem5",
+        "flexMenuItem6",
+        "flexMenuItem7",
+        "flexMenuItem8",
+        "flexMenuItem9",
+        "flexMenuItem10"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "id": "flexScrollMenuOptions"
+    },
+    "id": "flexScrollMenuOptions",
+    "instanceOf": "6c37e04fff8e4cec967c6ca7e95503db",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "me745e2a89e049db93899ed5ddbeeb71",
+    "masterInstance": true,
+    "name": "kony.ui.FlexScrollContainer",
+    "parent": "flexMenu",
+    "pf": "frmCourseSelection",
+    "topLevelInstanceKUID": "m92df89faf85433d8b307f0feddae1d8",
+    "wType": "FlexScrollContainer"
+}

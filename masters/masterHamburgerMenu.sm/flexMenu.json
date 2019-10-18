@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s311e3ff93284aedb8291fdb77acdc12",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m1c549d93b9b4676ad4c9dc6104f7128",
+        "m96d23eb7acf4591a7ad488fc728fc0b",
+        "m95fb43f20db4780a29216993480e1e9",
+        "m70c30f8877b4f09bbefdf715b7f48a0",
+        "mcd3cc99b3974391ac90abb1d80ce272",
+        "m49951269d904ba993aee5ff4636c39c",
+        "m01a04819ea44668a3d2b9586c42822f",
+        "m64b592e0de34e168db16a72cd8d999e",
+        "m40e57bd9ceb471fb41b549d554c68f3",
+        "m51751f18d0a4e689f24846972a69b4b",
+        "m583b71a6e694b5b96414e11a1fb58ad",
+        "m25a1473ee484ebfae1a76976cb5161a"
+    ],
+    "children": [
+        "flexUserProfile",
+        "flexScrollMenuOptions",
+        "flexFAQsAndSupport"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flexMenu",
+    "info": null,
+    "isvisible": true,
+    "kuid": "652ad3597bcc4e0e94671dedaf2b6a56",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexHamburgerMenu",
+    "pf": "masterHamburgerMenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,34 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s311e3ff93284aedb8291fdb77acdc12",
+    "_srcKuid_": "70fac876315343aeb601f83badb939e6",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "id": "flexSelectedIndicator9",
+        "layoutType": 2,
+        "snapGridSize": 10,
+        "snapToGrid": true
+    },
+    "id": "flexSelectedIndicator9",
+    "instanceOf": "70fac876315343aeb601f83badb939e6",
+    "isvisible": true,
+    "kuid": "m7450248daf44a08ad3e92fafd900152",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexMenuItem9",
+    "pf": "frmMyReminders",
+    "topLevelInstanceKUID": "m03dff12ea0449f2a9d5f20467980d9c",
+    "wType": "FlexContainer"
+}

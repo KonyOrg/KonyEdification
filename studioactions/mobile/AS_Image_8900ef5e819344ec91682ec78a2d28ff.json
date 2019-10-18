@@ -1,0 +1,52 @@
+{
+    "AS_Image_8900ef5e819344ec91682ec78a2d28ff": {
+        "id": "AS_Image_8900ef5e819344ec91682ec78a2d28ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmMyReminders",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ba73701f1c1e48b0ae93ba499166625d"
+        },
+        "sourceObj": {
+            "itemKUID": "420fe198ed5f435c89a26739a3612bdb",
+            "widgetKUID": "ed4cf5f0a45a4fcfae665ff08c00a785",
+            "evt": "onTouchEnd",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____3d6e78cc41fe46a4940976ad4d22d2b0",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Image_d287902d2cdc4cc0b20d2550d8594123",
+            "display": "AS_Image_d287902d2cdc4cc0b20d2550d8594123",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }, {
+                "datatype": "string",
+                "name": "x",
+                "value": "x"
+            }, {
+                "datatype": "string",
+                "name": "y",
+                "value": "y"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

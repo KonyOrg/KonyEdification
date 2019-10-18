@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "1ba591f5ec074866aedac3e671819000",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem1",
+        "text": "Dashboard",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem1",
+    "instanceOf": "1ba591f5ec074866aedac3e671819000",
+    "isvisible": true,
+    "kuid": "me3e1f0773bc4eecafb295df4be4a89c",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem1",
+    "pf": "frmMyTests",
+    "topLevelInstanceKUID": "m43ffd61a2ab4f80bfa0f30de2404872",
+    "wType": "Label"
+}

@@ -1,0 +1,3 @@
+ALTER TABLE `Courses`
+	MODIFY `CourseDescription` VARCHAR(500) NOT NULL,
+	MODIFY `CourseName` VARCHAR(50) NOT NULL;

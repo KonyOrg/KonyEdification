@@ -1,0 +1,84 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {
+            "9.3": {
+                "Foundation-iOS-9.3": {
+                    "title": "Foundation",
+                    "platform": "iOS",
+                    "os": "9.3",
+                    "url": "/visualizer/nativeframeworks/ios/1.0/Foundation-iOS-9.3.zip",
+                    "checksum": "41dbad7d387b27993d1165a97bcf0cb18e45c2e6",
+                    "filepath": "C:\\Users\\KH1865\\EdificationFinal\\KonyEdification\\nativebindings\\iOS\\9.3\\Foundation-iOS-9.3.zip",
+                    "enable": true,
+                    "isDefault": false
+                }
+            },
+            "11.0": {
+                "Kony_FileStorage-iOS-11.0": {
+                    "title": "Kony_FileStorage",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "isDefault": true,
+                    "filepath": "KonyEdification\\nativebindings\\iOS\\11.0\\Kony_FileStorage-iOS-11.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "isDefault": true,
+                    "filepath": "KonyEdification\\nativebindings\\iOS\\11.0\\Kony_SyncV2-iOS-11.0.zip",
+                    "enable": true
+                },
+                "Kony_SDKCommons-iOS-11.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "isDefault": true,
+                    "filepath": "KonyEdification\\nativebindings\\iOS\\11.0\\Kony_SDKCommons-iOS-11.0.zip",
+                    "enable": true
+                }
+            }
+        },
+        "Android": {
+            "API level 23": {
+                "java.lang-Android-API level 23": {
+                    "title": "java.lang",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/java.lang-Android-4.0.zip",
+                    "checksum": "533a415b37960853c802e7f3224f45225d745029",
+                    "filepath": "C:\\Users\\KH1865\\EdificationFinal\\KonyEdification\\nativebindings\\Android\\API level 23\\java.lang-Android-4.0.zip",
+                    "enable": true,
+                    "isDefault": false
+                }
+            },
+            "4.0": {
+                "Kony_FileStorage-Android-4.0": {
+                    "title": "Kony_FileStorage",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "isDefault": true,
+                    "filepath": "KonyEdification\\nativebindings\\Android\\4.0\\Kony_FileStorage-Android-4.0.zip",
+                    "enable": true
+                },
+                "Kony_SDKCommons-Android-4.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "isDefault": true,
+                    "filepath": "KonyEdification\\nativebindings\\Android\\4.0\\Kony_SDKCommons-Android-4.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "isDefault": true,
+                    "filepath": "KonyEdification\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                }
+            }
+        }
+    }
+}

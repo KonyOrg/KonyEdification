@@ -1,0 +1,38 @@
+{
+    "AS_FlexContainer_76d8fd34f2cd454cb3ea5eeed5b43e69": {
+        "id": "AS_FlexContainer_76d8fd34f2cd454cb3ea5eeed5b43e69",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmVideoTutorials",
+            "type": "forms",
+            "platform": "",
+            "KUID": "529c468c18df4d4eb3e03ea7ca57fdfa"
+        },
+        "sourceObj": {
+            "itemKUID": "40fb23802ab74a8bb4c1179b828946f2",
+            "widgetKUID": "55d6fe92b1c94084b9b50d49e29d33a9",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____1991b06373614ea9a3ecf993928ad68b",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_1cd122d176824b0e89a74cafc3bb8578",
+            "display": "AS_FlexContainer_1cd122d176824b0e89a74cafc3bb8578",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

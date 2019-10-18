@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_bae3aabd1b264a1c9bcf0d62aa2c2df2": {
+        "id": "AS_FlexContainer_bae3aabd1b264a1c9bcf0d62aa2c2df2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmCourseSelection",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1a6d8db32e6a42e4b1f51a99aeee673f"
+        },
+        "sourceObj": {
+            "itemKUID": "40fb23802ab74a8bb4c1179b828946f2",
+            "widgetKUID": "231381f24328457196e4c92f547538c3",
+            "evt": "onTouchStart"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

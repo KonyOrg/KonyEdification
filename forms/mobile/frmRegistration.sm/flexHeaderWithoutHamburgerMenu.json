@@ -1,0 +1,36 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s311e3ff93284aedb8291fdb77acdc12",
+    "_srcKuid_": "m3117cf380cf452e8d9ceda29b88ea3e",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "lblTitle",
+        "imgBack",
+        "imgShare"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "id": "flexHeaderWithoutHamburgerMenu"
+    },
+    "id": "flexHeaderWithoutHamburgerMenu",
+    "instanceOf": "m3117cf380cf452e8d9ceda29b88ea3e",
+    "isTopFlexInstance": true,
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "mc86fb6851d248a7aedb72d5dfc96032",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexBlur",
+    "pf": "frmRegistration",
+    "vizProps": {
+        "hidewidgethierarchy": true
+    },
+    "wType": "FlexContainer"
+}

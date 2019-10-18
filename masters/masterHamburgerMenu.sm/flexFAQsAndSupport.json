@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa75b05bdf3a450c9c720ba89f61bea5",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "mbd86bc4138c413ab900a1ba5c98234d",
+        "md5e7b9067854f41894b074725c7bd9b",
+        "mb9a2082ef024751ad440602c2f7b439",
+        "m3c6afe87ea240669c50db201537cbf0",
+        "m34d1974a3fb44db9a3dd8110a64f0e1",
+        "mc0dcc73c8c149bbb9d1c43d9414648b",
+        "m909f8e3dfa2426d999aa5fd88f7e9f5",
+        "m45599dafbe24014a57e5db8840fbade",
+        "m02c70ba8fc440e9af253d248885e5d2",
+        "mf7908b12a564a6d98a03a01062fa7c8",
+        "m5f2e532c97e4c9392550a784f65a384",
+        "m2c8c8462aa743dc92da03a35e32c723"
+    ],
+    "children": [
+        "imglogo"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flexFAQsAndSupport",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4d16f85d3c7545c2af7861e4b1b7383f",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexMenu",
+    "pf": "masterHamburgerMenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 2
+}

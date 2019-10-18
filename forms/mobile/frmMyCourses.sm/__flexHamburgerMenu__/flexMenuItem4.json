@@ -1,0 +1,39 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0a74828bffc493385f11fdd3f526903",
+    "_srcKuid_": "f6218c2b89604ea490d2c1bf537c3a63",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "imgMenuItem4",
+        "lblMenuItem4",
+        "flexSelectedIndicator4"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "id": "flexMenuItem4",
+        "layoutType": 2,
+        "snapGridSize": 10,
+        "snapToGrid": true
+    },
+    "id": "flexMenuItem4",
+    "ide_onClick": "AS_FlexContainer_50ef478fa2ea41d8ae626a732da4a0b9",
+    "instanceOf": "f6218c2b89604ea490d2c1bf537c3a63",
+    "isvisible": true,
+    "kuid": "m478392490f7429b9694ac689b19580c",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexScrollMenuOptions",
+    "pf": "frmMyCourses",
+    "topLevelInstanceKUID": "m11c99a9003d4c159ac57f1ffa4692f1",
+    "wType": "FlexContainer"
+}

@@ -1,0 +1,479 @@
+{
+    "HEAD": "w8a60d76e25940f6981ca139a6b001f6",
+    "w018788e788748d7a8760e7186f00662": {
+        "extension": "html",
+        "kuid": "w018788e788748d7a8760e7186f00662",
+        "name": "videoplayer.html",
+        "parent": "w8a60d76e25940f6981ca139a6b001f6",
+        "type": "F"
+    },
+    "w03daebd72364dc28dacffaba9156ae9": {
+        "extension": "woff2",
+        "kuid": "w03daebd72364dc28dacffaba9156ae9",
+        "name": "fontawesome-webfont3295.woff2",
+        "parent": "w1f3ea35e0ce463bab850131668893ac",
+        "type": "F"
+    },
+    "w0741e23897749268404a178e73c78dc": {
+        "extension": "js",
+        "kuid": "w0741e23897749268404a178e73c78dc",
+        "name": "f-i-bvisible.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w0a11657f76e43cda337eed6d9864ccd": {
+        "extension": "css",
+        "kuid": "w0a11657f76e43cda337eed6d9864ccd",
+        "name": "bootstrap.min.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w1081d62ae2440c9a89599d5e494387d": {
+        "extension": "js",
+        "kuid": "w1081d62ae2440c9a89599d5e494387d",
+        "name": "custom.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w11d3a2c98bf48d5bd5556a417aade35": {
+        "children": [
+            "wc3ee2e1296541c8acb265605386260c",
+            "w1aff360a3fb4f7b9709c35bbe84f251",
+            "w0a11657f76e43cda337eed6d9864ccd",
+            "w6aa0e12e3074086a903f4b43605cfe0",
+            "wf6cb4bd89504008a287f9e2e7a075bb",
+            "w3c1ac8d6a3d47ad9e34c13b9122f618",
+            "wa008a38f56548f79337c6eadc8a4d84",
+            "w428839142e54ea286c5c89a7e618a22",
+            "w62b57208df74b0e8631fc64cbdb264b",
+            "wdbfb57ffd994475be0106a59a873811",
+            "w43a7ee027bb470c99ee814b97cb696b",
+            "wf860e0ee1d8492db5d300323b08083f",
+            "w9811e060c804dbda4255a1211203e61",
+            "w23f4c06ee164a2c9bb7e5066f2fd235"
+        ],
+        "kuid": "w11d3a2c98bf48d5bd5556a417aade35",
+        "name": "styles",
+        "parent": "w47fda167f494d01803498178fe5e9fe",
+        "type": "D"
+    },
+    "w1444386a94f48449fb96358a7144af8": {
+        "extension": "js",
+        "kuid": "w1444386a94f48449fb96358a7144af8",
+        "name": "wow.min.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w1a99484707f4e0dba05691840aa1b9b": {
+        "extension": "js",
+        "kuid": "w1a99484707f4e0dba05691840aa1b9b",
+        "name": "select-odd-letter.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w1af7d9f0f2e418289b261c8f2fd309c": {
+        "extension": "js",
+        "kuid": "w1af7d9f0f2e418289b261c8f2fd309c",
+        "name": "offline.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w1aff360a3fb4f7b9709c35bbe84f251": {
+        "extension": "css",
+        "kuid": "w1aff360a3fb4f7b9709c35bbe84f251",
+        "name": "balloon.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w1d57d9f69f24777b42734986d772752": {
+        "extension": "js",
+        "kuid": "w1d57d9f69f24777b42734986d772752",
+        "name": "jquery-1.11.3.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w1f3ea35e0ce463bab850131668893ac": {
+        "children": [
+            "w5078ca60de9477da8ef45e506dff70b",
+            "wa467db9f9e24a95bd530dbf637f17fc",
+            "w6f73d662693409ca65fe41df60ef130",
+            "w3381a5c907c4f25b052882e944c3326",
+            "wce505f659be46a9a75a02b927cf17dd",
+            "w88c729b77c34ea8b42c659a79cbf300",
+            "w03daebd72364dc28dacffaba9156ae9",
+            "w40727bc7f8a454889a210e0043423d9"
+        ],
+        "kuid": "w1f3ea35e0ce463bab850131668893ac",
+        "name": "fonts",
+        "parent": "w47fda167f494d01803498178fe5e9fe",
+        "type": "D"
+    },
+    "w23f4c06ee164a2c9bb7e5066f2fd235": {
+        "extension": "css",
+        "kuid": "w23f4c06ee164a2c9bb7e5066f2fd235",
+        "name": "twoimages.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w2920893ec3f478786ff9a7c1bb11901": {
+        "extension": "js",
+        "kuid": "w2920893ec3f478786ff9a7c1bb11901",
+        "name": "image-tand.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w32bcc75c7b54ca08900f17f1578e92e": {
+        "extension": "html",
+        "kuid": "w32bcc75c7b54ca08900f17f1578e92e",
+        "name": "index.html",
+        "parent": "w47fda167f494d01803498178fe5e9fe",
+        "type": "F"
+    },
+    "w3381a5c907c4f25b052882e944c3326": {
+        "extension": "svg",
+        "kuid": "w3381a5c907c4f25b052882e944c3326",
+        "name": "fontawesome-webfont3295.svg",
+        "parent": "w1f3ea35e0ce463bab850131668893ac",
+        "type": "F"
+    },
+    "w37e440ca8c449f099ec4d551226c75b": {
+        "children": [
+            "w6a7e33a7cf74ef0b08ba096bfb98c45",
+            "wb2e7ff632294d77ac9d611cab42d521",
+            "wae1267dc4f94c9eb88f0e6e8ed7b95d",
+            "w725627c12754f0fbdf1899d8254f3fc",
+            "w4e7736f4cd641b4b4c2240fcd02ffdf",
+            "wdc6bf149f0d4fff90bc8b856ea5ea06"
+        ],
+        "kuid": "w37e440ca8c449f099ec4d551226c75b",
+        "name": "img",
+        "parent": "w47fda167f494d01803498178fe5e9fe",
+        "type": "D"
+    },
+    "w3c1ac8d6a3d47ad9e34c13b9122f618": {
+        "extension": "css",
+        "kuid": "w3c1ac8d6a3d47ad9e34c13b9122f618",
+        "name": "framework.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w40727bc7f8a454889a210e0043423d9": {
+        "extension": "eot",
+        "kuid": "w40727bc7f8a454889a210e0043423d9",
+        "name": "fontawesome-webfontd41d.eot",
+        "parent": "w1f3ea35e0ce463bab850131668893ac",
+        "type": "F"
+    },
+    "w428839142e54ea286c5c89a7e618a22": {
+        "extension": "css",
+        "kuid": "w428839142e54ea286c5c89a7e618a22",
+        "name": "lightdark.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w43a7ee027bb470c99ee814b97cb696b": {
+        "extension": "css",
+        "kuid": "w43a7ee027bb470c99ee814b97cb696b",
+        "name": "nav.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w47fda167f494d01803498178fe5e9fe": {
+        "children": [
+            "we3b415f5ad7428fbeff9473be7a0d78",
+            "w1f3ea35e0ce463bab850131668893ac",
+            "w37e440ca8c449f099ec4d551226c75b",
+            "w32bcc75c7b54ca08900f17f1578e92e",
+            "wcf61245d4084bd1879ac9bdd54947d4",
+            "w11d3a2c98bf48d5bd5556a417aade35",
+            "wd374d7fa92d419593c0a3c7cd29471b"
+        ],
+        "kuid": "w47fda167f494d01803498178fe5e9fe",
+        "name": "zip22520",
+        "parent": "w8a60d76e25940f6981ca139a6b001f6",
+        "type": "D"
+    },
+    "w4e7736f4cd641b4b4c2240fcd02ffdf": {
+        "extension": "png",
+        "kuid": "w4e7736f4cd641b4b4c2240fcd02ffdf",
+        "name": "vizstarter.png",
+        "parent": "w37e440ca8c449f099ec4d551226c75b",
+        "type": "F"
+    },
+    "w5078ca60de9477da8ef45e506dff70b": {
+        "extension": "ttf",
+        "kuid": "w5078ca60de9477da8ef45e506dff70b",
+        "name": "Roboto-Black.ttf",
+        "parent": "w1f3ea35e0ce463bab850131668893ac",
+        "type": "F"
+    },
+    "w5f654b9a8db49a3aaa15fb43dce5b65": {
+        "extension": "js",
+        "kuid": "w5f654b9a8db49a3aaa15fb43dce5b65",
+        "name": "f-i-b1.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w62b57208df74b0e8631fc64cbdb264b": {
+        "extension": "css",
+        "kuid": "w62b57208df74b0e8631fc64cbdb264b",
+        "name": "lightdark1.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w6a7e33a7cf74ef0b08ba096bfb98c45": {
+        "extension": "png",
+        "kuid": "w6a7e33a7cf74ef0b08ba096bfb98c45",
+        "name": "fieldservices.png",
+        "parent": "w37e440ca8c449f099ec4d551226c75b",
+        "type": "F"
+    },
+    "w6aa0e12e3074086a903f4b43605cfe0": {
+        "extension": "css",
+        "kuid": "w6aa0e12e3074086a903f4b43605cfe0",
+        "name": "demo.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w6f73d662693409ca65fe41df60ef130": {
+        "extension": "eot",
+        "kuid": "w6f73d662693409ca65fe41df60ef130",
+        "name": "fontawesome-webfont3295.eot",
+        "parent": "w1f3ea35e0ce463bab850131668893ac",
+        "type": "F"
+    },
+    "w725627c12754f0fbdf1899d8254f3fc": {
+        "extension": "png",
+        "kuid": "w725627c12754f0fbdf1899d8254f3fc",
+        "name": "vizenterprise.png",
+        "parent": "w37e440ca8c449f099ec4d551226c75b",
+        "type": "F"
+    },
+    "w7c5dbdf976c481992b64d74caa971b4": {
+        "extension": "js",
+        "kuid": "w7c5dbdf976c481992b64d74caa971b4",
+        "name": "demo.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w7d50defd2044c749ea6f48f31c83fbf": {
+        "extension": "js",
+        "kuid": "w7d50defd2044c749ea6f48f31c83fbf",
+        "name": "jquery-1.11.3-2.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w81080bf0d3442f6b0e7618a6c33a93f": {
+        "extension": "js",
+        "kuid": "w81080bf0d3442f6b0e7618a6c33a93f",
+        "name": "nav-script.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w81ed7b8016d477db9b92665c998664d": {
+        "extension": "js",
+        "kuid": "w81ed7b8016d477db9b92665c998664d",
+        "name": "audio.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w88c729b77c34ea8b42c659a79cbf300": {
+        "extension": "woff",
+        "kuid": "w88c729b77c34ea8b42c659a79cbf300",
+        "name": "fontawesome-webfont3295.woff",
+        "parent": "w1f3ea35e0ce463bab850131668893ac",
+        "type": "F"
+    },
+    "w8a60d76e25940f6981ca139a6b001f6": {
+        "children": [
+            "wd66a4942430478d9e32c97c12115975",
+            "w47fda167f494d01803498178fe5e9fe",
+            "w018788e788748d7a8760e7186f00662"
+        ],
+        "kuid": "w8a60d76e25940f6981ca139a6b001f6",
+        "name": "localfiles",
+        "type": "L"
+    },
+    "w8d868d3e2304825a5e6ad31925c0675": {
+        "extension": "js",
+        "kuid": "w8d868d3e2304825a5e6ad31925c0675",
+        "name": "image-display.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "w9811e060c804dbda4255a1211203e61": {
+        "extension": "css",
+        "kuid": "w9811e060c804dbda4255a1211203e61",
+        "name": "style1.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "w99754acf5674b559c4f519a51cb6aac": {
+        "extension": "js",
+        "kuid": "w99754acf5674b559c4f519a51cb6aac",
+        "name": "jquery.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "wa008a38f56548f79337c6eadc8a4d84": {
+        "extension": "css",
+        "kuid": "wa008a38f56548f79337c6eadc8a4d84",
+        "name": "grid-system.min.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "wa467db9f9e24a95bd530dbf637f17fc": {
+        "extension": "ttf",
+        "kuid": "wa467db9f9e24a95bd530dbf637f17fc",
+        "name": "Roboto-Regular.ttf",
+        "parent": "w1f3ea35e0ce463bab850131668893ac",
+        "type": "F"
+    },
+    "wae1267dc4f94c9eb88f0e6e8ed7b95d": {
+        "extension": "png",
+        "kuid": "wae1267dc4f94c9eb88f0e6e8ed7b95d",
+        "name": "retailbanking.png",
+        "parent": "w37e440ca8c449f099ec4d551226c75b",
+        "type": "F"
+    },
+    "wb2e7ff632294d77ac9d611cab42d521": {
+        "extension": "png",
+        "kuid": "wb2e7ff632294d77ac9d611cab42d521",
+        "name": "mobilefabric.png",
+        "parent": "w37e440ca8c449f099ec4d551226c75b",
+        "type": "F"
+    },
+    "wc3ee2e1296541c8acb265605386260c": {
+        "extension": "css",
+        "kuid": "wc3ee2e1296541c8acb265605386260c",
+        "name": "animate.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "wc564be9f4bd49a29e66a578bc0a4181": {
+        "extension": "txt",
+        "kuid": "wc564be9f4bd49a29e66a578bc0a4181",
+        "name": "audioscript.txt",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "wcdf0468be304cc1ac9a16631db93352": {
+        "extension": "js",
+        "kuid": "wcdf0468be304cc1ac9a16631db93352",
+        "name": "alphabet3sctipt.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "wce505f659be46a9a75a02b927cf17dd": {
+        "extension": "ttf",
+        "kuid": "wce505f659be46a9a75a02b927cf17dd",
+        "name": "fontawesome-webfont3295.ttf",
+        "parent": "w1f3ea35e0ce463bab850131668893ac",
+        "type": "F"
+    },
+    "wcf61245d4084bd1879ac9bdd54947d4": {
+        "children": [
+            "we80b2ec96024f7f8689b30e01b2473c",
+            "wcdf0468be304cc1ac9a16631db93352",
+            "w81ed7b8016d477db9b92665c998664d",
+            "wc564be9f4bd49a29e66a578bc0a4181",
+            "wf5ab0d8d78e497ea2d9fadcff16307f",
+            "w1081d62ae2440c9a89599d5e494387d",
+            "w7c5dbdf976c481992b64d74caa971b4",
+            "wea5af1b2f394bcbb9b1a816aa3ee1e3",
+            "w5f654b9a8db49a3aaa15fb43dce5b65",
+            "w0741e23897749268404a178e73c78dc",
+            "w8d868d3e2304825a5e6ad31925c0675",
+            "w2920893ec3f478786ff9a7c1bb11901",
+            "w7d50defd2044c749ea6f48f31c83fbf",
+            "w1d57d9f69f24777b42734986d772752",
+            "w99754acf5674b559c4f519a51cb6aac",
+            "w81080bf0d3442f6b0e7618a6c33a93f",
+            "w1af7d9f0f2e418289b261c8f2fd309c",
+            "we538f083a5747daba32f22402e6814d",
+            "w1a99484707f4e0dba05691840aa1b9b",
+            "w1444386a94f48449fb96358a7144af8"
+        ],
+        "kuid": "wcf61245d4084bd1879ac9bdd54947d4",
+        "name": "scripts",
+        "parent": "w47fda167f494d01803498178fe5e9fe",
+        "type": "D"
+    },
+    "wd374d7fa92d419593c0a3c7cd29471b": {
+        "extension": "",
+        "kuid": "wd374d7fa92d419593c0a3c7cd29471b",
+        "name": ".DS_Store",
+        "parent": "w47fda167f494d01803498178fe5e9fe",
+        "type": "F"
+    },
+    "wd66a4942430478d9e32c97c12115975": {
+        "extension": "html",
+        "kuid": "wd66a4942430478d9e32c97c12115975",
+        "name": "TermsAndConditions.html",
+        "parent": "w8a60d76e25940f6981ca139a6b001f6",
+        "type": "F"
+    },
+    "wdbfb57ffd994475be0106a59a873811": {
+        "extension": "css",
+        "kuid": "wdbfb57ffd994475be0106a59a873811",
+        "name": "menu.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "wdc6bf149f0d4fff90bc8b856ea5ea06": {
+        "extension": "",
+        "kuid": "wdc6bf149f0d4fff90bc8b856ea5ea06",
+        "name": ".DS_Store",
+        "parent": "w37e440ca8c449f099ec4d551226c75b",
+        "type": "F"
+    },
+    "we3b415f5ad7428fbeff9473be7a0d78": {
+        "extension": "css",
+        "kuid": "we3b415f5ad7428fbeff9473be7a0d78",
+        "name": "font.css",
+        "parent": "w47fda167f494d01803498178fe5e9fe",
+        "type": "F"
+    },
+    "we538f083a5747daba32f22402e6814d": {
+        "extension": "js",
+        "kuid": "we538f083a5747daba32f22402e6814d",
+        "name": "plugins.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "we80b2ec96024f7f8689b30e01b2473c": {
+        "extension": "js",
+        "kuid": "we80b2ec96024f7f8689b30e01b2473c",
+        "name": "alphabet2.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "wea5af1b2f394bcbb9b1a816aa3ee1e3": {
+        "extension": "js",
+        "kuid": "wea5af1b2f394bcbb9b1a816aa3ee1e3",
+        "name": "f-i-b.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "wf5ab0d8d78e497ea2d9fadcff16307f": {
+        "extension": "js",
+        "kuid": "wf5ab0d8d78e497ea2d9fadcff16307f",
+        "name": "candsmall.js",
+        "parent": "wcf61245d4084bd1879ac9bdd54947d4",
+        "type": "F"
+    },
+    "wf6cb4bd89504008a287f9e2e7a075bb": {
+        "extension": "css",
+        "kuid": "wf6cb4bd89504008a287f9e2e7a075bb",
+        "name": "font-awesome.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    },
+    "wf860e0ee1d8492db5d300323b08083f": {
+        "extension": "css",
+        "kuid": "wf860e0ee1d8492db5d300323b08083f",
+        "name": "style.css",
+        "parent": "w11d3a2c98bf48d5bd5556a417aade35",
+        "type": "F"
+    }
+}

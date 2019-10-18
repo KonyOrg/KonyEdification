@@ -1,0 +1,28 @@
+{
+    "AS_Form_29b8226a75cf4707b389bb4d20001bab": {
+        "id": "AS_Form_29b8226a75cf4707b389bb4d20001bab",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTopicsInAModule",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c4d47acd9b684110a40a84a9b5c86a7b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___197279c33910464a9c9263675aec3ea7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "animateTopicsInsideSegment",
+            "display": "animateTopicsInsideSegment",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

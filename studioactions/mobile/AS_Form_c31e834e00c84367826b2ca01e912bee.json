@@ -1,0 +1,28 @@
+{
+    "AS_Form_c31e834e00c84367826b2ca01e912bee": {
+        "id": "AS_Form_c31e834e00c84367826b2ca01e912bee",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e62d993f3e244ea1b6646bab14f046a4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___386c3f103b8049259a03faf37b6353f6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "quotesAnimation",
+            "display": "quotesAnimation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

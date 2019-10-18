@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "5ab37d5cc1044033812397ff88e37d6c",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgMenuItem9",
+        "imageScaleMode": 1,
+        "src": "videotutorials.png"
+    },
+    "id": "imgMenuItem9",
+    "instanceOf": "5ab37d5cc1044033812397ff88e37d6c",
+    "isvisible": true,
+    "kuid": "me7b2c4425754a3aa9b581f3fb15afaf",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexMenuItem9",
+    "pf": "frmMyReminders",
+    "topLevelInstanceKUID": "m03dff12ea0449f2a9d5f20467980d9c",
+    "wType": "Image"
+}

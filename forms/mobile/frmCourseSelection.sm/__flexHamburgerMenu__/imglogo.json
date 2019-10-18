@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "3d70f440cd0640989daf244c9a164cfb",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "context": {},
+    "dataDiffs": {
+        "id": "imglogo"
+    },
+    "id": "imglogo",
+    "instanceOf": "3d70f440cd0640989daf244c9a164cfb",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m8965d38caf7493da7afde3160b66cec",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexFAQsAndSupport",
+    "pf": "frmCourseSelection",
+    "topLevelInstanceKUID": "m92df89faf85433d8b307f0feddae1d8",
+    "wType": "Image"
+}

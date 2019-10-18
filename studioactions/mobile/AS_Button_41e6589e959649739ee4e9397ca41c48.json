@@ -1,0 +1,39 @@
+{
+    "AS_Button_41e6589e959649739ee4e9397ca41c48": {
+        "id": "AS_Button_41e6589e959649739ee4e9397ca41c48",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTermsAndConditions",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b39b5fec4f424458bfbbe88b1feb710d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__309e4152f1a648a194d79c67cad5a9d3",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Terms And Conditions",
+            "yesLabel": "Yes",
+            "noLabel": "No",
+            "alertMessage": "Don't want to accept terms and conditions? We will exit the application.",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT"
+        }, {
+            "id": "ADD_SNIPPET__8825d6df483c4b46b3a93bd204fcaac8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.application.exit();",
+            "parentId": "SHOW_ALERT__309e4152f1a648a194d79c67cad5a9d3",
+            "callbackType": "True"
+        }]
+    }
+}

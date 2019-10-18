@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s67e821f90364f69ac60d132b0e351de",
+    "_srcKuid_": "f256f5e0eba14c3a885534d66d7be4d4",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblTitle",
+        "left": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "text": "Login",
+        "textStyle": {},
+        "width": {
+            "type": "string",
+            "value": "75%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblTitle",
+    "instanceOf": "f256f5e0eba14c3a885534d66d7be4d4",
+    "isvisible": true,
+    "kuid": "m0b3d4d33bab42e5b950b455bc6d4b98",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexHeaderWithoutHamburgerMenu",
+    "pf": "frmLogin",
+    "topLevelInstanceKUID": "mb38c7c2a52f42c99f3e329fa00d2c18",
+    "wType": "Label"
+}

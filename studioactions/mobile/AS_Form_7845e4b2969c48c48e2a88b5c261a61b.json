@@ -1,0 +1,24 @@
+{
+    "AS_Form_7845e4b2969c48c48e2a88b5c261a61b": {
+        "id": "AS_Form_7845e4b2969c48c48e2a88b5c261a61b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "44069db196444ed49ca816541bcf5bb5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3a5ffdd6b90240a8973165f3b7d7c09f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmDashboard.onDeviceBack = emptyCallback;\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa1a9fd93a924ac9a75d075d19d7b9cb",
+    "_srcKuid_": "m6d7aef171b747bc82ba329364726a19",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "flexMenu"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "id": "flexHamburgerMenu",
+        "layoutType": 2,
+        "snapGridSize": 10,
+        "snapToGrid": true
+    },
+    "id": "flexHamburgerMenu",
+    "ide_preShow": "AS_FlexContainer_14596151f4f44771be902d51efb62169",
+    "instanceOf": "m6d7aef171b747bc82ba329364726a19",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "m43ffd61a2ab4f80bfa0f30de2404872",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmMyTests",
+    "pf": "frmMyTests",
+    "vizProps": {
+        "hidewidgethierarchy": true
+    },
+    "wType": "FlexContainer"
+}

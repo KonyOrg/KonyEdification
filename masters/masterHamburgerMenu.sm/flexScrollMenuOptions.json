@@ -1,0 +1,89 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "440dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa0343b1be124f3ba9a2fca10d2e42fc",
+    "_top_": {
+        "type": "string",
+        "value": "175dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "childInstances": [
+        "me745e2a89e049db93899ed5ddbeeb71",
+        "mf68f1f1bd0d45348c5a1eec4c416e74",
+        "md101d90a8e34b92876db1ab6770a52f",
+        "m7645eb7ffc043a09f6c709d7386c788",
+        "m56ebf0309de4809990e625495756184",
+        "m1636861ffe046be8baa20eaa68fbc22",
+        "m881ffc6f09547af80288bb0c07ecea6",
+        "m375d2149ffe48dcbca9ade6c7a119d0",
+        "m509ec3c937241faa3de9c4a4235e653",
+        "me6c8f603a914ea59dd38a8c6bd5b37b",
+        "m68afaf36cea48efa6252e4fd7e10534",
+        "m93babebc8ce48598e4b86990109ea8c"
+    ],
+    "children": [
+        "flexMenuItem1",
+        "flexMenuItem2",
+        "flexMenuItem3",
+        "flexMenuItem4",
+        "flexMenuItem5",
+        "flexMenuItem6",
+        "flexMenuItem7",
+        "flexMenuItem8",
+        "flexMenuItem9",
+        "flexMenuItem10"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "flexScrollMenuOptions",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6c37e04fff8e4cec967c6ca7e95503db",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "flexMenu",
+    "pf": "masterHamburgerMenu",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

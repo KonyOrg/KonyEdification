@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "28362797638546f18c0f91a949f9aab7",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgMenuItem2",
+        "imageScaleMode": 1,
+        "src": "programs.png"
+    },
+    "id": "imgMenuItem2",
+    "instanceOf": "28362797638546f18c0f91a949f9aab7",
+    "isvisible": true,
+    "kuid": "mdbc1341f7344870aff2be5d4935dc9d",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexMenuItem2",
+    "pf": "frmSupport",
+    "topLevelInstanceKUID": "mb38d3672eae4032a7b1bc3afe73de5f",
+    "wType": "Image"
+}

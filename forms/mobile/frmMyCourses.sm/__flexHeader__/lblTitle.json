@@ -1,0 +1,34 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s67e821f90364f69ac60d132b0e351de",
+    "_srcKuid_": "2a47e67fba734822812eec010846d566",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblTitle",
+        "text": "My Courses",
+        "textStyle": {}
+    },
+    "id": "lblTitle",
+    "instanceOf": "2a47e67fba734822812eec010846d566",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m52d903a3e9e44ec9022346c9b661711",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexHeader",
+    "pf": "frmMyCourses",
+    "topLevelInstanceKUID": "mbab2ed9fdaa40aa84a206c123ceff6f",
+    "wType": "Label"
+}

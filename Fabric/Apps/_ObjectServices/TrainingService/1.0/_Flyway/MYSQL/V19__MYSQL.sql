@@ -1,0 +1,2 @@
+ALTER TABLE `LatestActivites`
+	ADD `Image` VARCHAR(1000) NOT NULL;

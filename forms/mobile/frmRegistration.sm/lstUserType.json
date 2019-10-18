@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sed37b1ab25647bda85572d008c20b60",
+    "_width_": {
+        "type": "string",
+        "value": "78%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmRegistration",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "downarrow.png",
+    "focusskin": "sed37b1ab25647bda85572d008c20b60",
+    "groupcells": false,
+    "id": "lstUserType",
+    "ide_onSelection": "AS_ListBox_02e4aaa362d94fa49a37c22b582b5e14",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cae34ce825a54c0b8554888400ec66d7",
+    "masterdata": [
+        [
+            "0",
+            "Select UserType"
+        ],
+        [
+            "1",
+            "Designer"
+        ],
+        [
+            "2",
+            "Developer"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flexUserType",
+    "pf": "frmRegistration",
+    "selectedkey": "0",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "0",
+        "Select UserType"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

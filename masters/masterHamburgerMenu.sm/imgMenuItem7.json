@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_src_": "courseselection.png",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m02e75cbc5a64333b7c82f86816d3c28",
+        "m35de6e7748c4a85b966e225054b1ade",
+        "mca959057ed34b74850cbeb57ff1c0f8",
+        "m47a3cb784f6498e94614e25bfdfea40",
+        "m44556c27d54490eaca01c7cbc5f5ab1",
+        "m8162ead308b432e9b868dc83ca68b46",
+        "m9ffe6f95b9c4acca85e29ae5b88a206",
+        "m6fc4eaaf2fb42cb914b36a0c80c3e70",
+        "m8bc716e4d8e452595a79766d3604e39",
+        "mc3fc740e0704bdbb9947b961569a634",
+        "m3eb97c967d0400cab7379e3fc1b5487",
+        "me61cba1df8243e08f5157e853a64df3"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "masterHamburgerMenu",
+        "platform": "android",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgMenuItem7",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "233eee71420f4f1c927e515cf8bb1c5f",
+    "name": "kony.ui.Image2",
+    "parent": "flexMenuItem7",
+    "pf": "masterHamburgerMenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

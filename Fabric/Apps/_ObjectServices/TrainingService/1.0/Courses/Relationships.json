@@ -1,0 +1,13 @@
+[ {
+  "sourceObject" : "Courses",
+  "targetObject" : "Modules",
+  "relationshipKeys" : [ {
+    "sourceField" : "CourseID",
+    "targetField" : "CourseID",
+    "etag" : "7cf6eee9-9591-44f0-bad2-c0e5ef9ed9f3"
+  } ],
+  "name" : "Courses_Modules",
+  "type" : "OneToMany",
+  "custom" : false,
+  "cascadeDelete" : false
+} ]

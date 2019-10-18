@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_b4d3d6fae54f4c8a9b1715d878c14026": {
+        "id": "AS_FlexContainer_b4d3d6fae54f4c8a9b1715d878c14026",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterHamburgerMenu",
+            "type": "masters",
+            "KUID": "40fb23802ab74a8bb4c1179b828946f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ca34990ad16e4924a4303a61444955e3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "resetHamburgerMenuSelection(eventobject);\ncloseHamburgerMenu ();\nfrmVideoTutorials.show();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

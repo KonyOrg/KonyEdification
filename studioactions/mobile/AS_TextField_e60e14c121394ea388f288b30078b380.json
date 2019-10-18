@@ -1,0 +1,30 @@
+{
+    "AS_TextField_e60e14c121394ea388f288b30078b380": {
+        "id": "AS_TextField_e60e14c121394ea388f288b30078b380",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmRegistration",
+            "type": "forms",
+            "platform": "",
+            "KUID": "78a7d32b127c4a7a8700a4caa7e23c5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3a8faeb9507f4ee3aaaa1310ea1a25df",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmRegistration.flexPassword.skin = sknFlex5;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

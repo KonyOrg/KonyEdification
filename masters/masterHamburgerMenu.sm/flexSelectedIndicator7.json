@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s311e3ff93284aedb8291fdb77acdc12",
+    "_width_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mcbbc9957ba04d209035b06c306c0759",
+        "m15daba4c08d451e8a9a7faabec0e418",
+        "mee42c88d1334029bc39acd42438c8ae",
+        "m38812911cf94fabbc68185642baf270",
+        "m0e4c70971aa4514b262bcd9b4b4258c",
+        "m8d4236fdbad45ca8430dd0ae667256f",
+        "m1bf951531664a2cbf46e30777130317",
+        "md2346f8a4b64e46b1679852b08c6ec7",
+        "m2fac36bb8a7484a8c99f526fae67dae",
+        "m19ee1bdec3b430c8f682ed6aa458145",
+        "m44a4a40c53a41788da061ce7f5f0b1c",
+        "mee349ac00e545f2b42d8588241eebbe"
+    ],
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flexSelectedIndicator7",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fd695361b314470ebc11e76ba41d8d71",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexMenuItem7",
+    "pf": "masterHamburgerMenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

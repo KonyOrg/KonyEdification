@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "0c1604b73499441b86157c75650b5c64",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgProfilePic",
+        "imageScaleMode": 1,
+        "src": "profilepic.png"
+    },
+    "id": "imgProfilePic",
+    "instanceOf": "0c1604b73499441b86157c75650b5c64",
+    "isvisible": true,
+    "kuid": "m450bfcc8f8c428e84c03796f0758b19",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexUserProfile",
+    "pf": "frmMyNotes",
+    "topLevelInstanceKUID": "m8459c4437544cb98edd8059c825d59e",
+    "wType": "Image"
+}

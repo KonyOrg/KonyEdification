@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_text_": "News Letters",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m592fbe836b047a9ada9f9ecbebc21bc",
+        "m4f7d5f66ca945cbbc27a064e78869c4",
+        "m9ed4bbdbbd24d2fa1fe9027982b3a7c",
+        "mdc7ffc648114d2096dcb21a88eedcc6",
+        "mdcb51ea8b1248f5bd6bc2d6dbe70d8b",
+        "m57b43cc2a7e4ee8984d51d27d095fbd",
+        "mef36594c8cc4f9783ab1324fd8fc822",
+        "m8e7003d43cb4087b8c9f67c1ac2e470",
+        "m541a5332b04439fb4f2e7a1308700b4",
+        "ma291871c5134611bfb6f76dbd09665b",
+        "m05660b81ab74a25adf9d350de3e9bbc",
+        "m388c5cda12b40c996e5943818e0dd42"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblMenuItem8",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "704ffe31917c4a74b30b58f9ab6a9763",
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem8",
+    "pf": "masterHamburgerMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "2d4b3f118a9b4877a95788be19c5601c",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem3",
+        "text": "My Tests",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem3",
+    "instanceOf": "2d4b3f118a9b4877a95788be19c5601c",
+    "isvisible": true,
+    "kuid": "mebabfa97e1d445a84ddbbbb3def6f18",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem3",
+    "pf": "frmMyCourses",
+    "topLevelInstanceKUID": "m11c99a9003d4c159ac57f1ffa4692f1",
+    "wType": "Label"
+}

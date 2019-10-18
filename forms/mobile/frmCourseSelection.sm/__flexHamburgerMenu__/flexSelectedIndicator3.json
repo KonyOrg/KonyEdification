@@ -1,0 +1,35 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s311e3ff93284aedb8291fdb77acdc12",
+    "_srcKuid_": "d8d48b54e2664d238aa3193d41b524b3",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [],
+    "context": {},
+    "dataDiffs": {
+        "id": "flexSelectedIndicator3",
+        "layoutType": 2
+    },
+    "id": "flexSelectedIndicator3",
+    "instanceOf": "d8d48b54e2664d238aa3193d41b524b3",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m09e247bca40402eab7ab85b35f2f6f8",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexMenuItem3",
+    "pf": "frmCourseSelection",
+    "topLevelInstanceKUID": "m92df89faf85433d8b307f0feddae1d8",
+    "wType": "FlexContainer"
+}

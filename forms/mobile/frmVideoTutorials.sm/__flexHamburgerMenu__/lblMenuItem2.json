@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "da2c1af28b8349d7873037829e605e22",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem2",
+        "text": "My Programs",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem2",
+    "instanceOf": "da2c1af28b8349d7873037829e605e22",
+    "isvisible": true,
+    "kuid": "m892e6ce04124fb2bfc6fce7c58103c7",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem2",
+    "pf": "frmVideoTutorials",
+    "topLevelInstanceKUID": "m4bc1830c32840a384bc03b32667c507",
+    "wType": "Label"
+}

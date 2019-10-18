@@ -1,0 +1,36 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s311e3ff93284aedb8291fdb77acdc12",
+    "_srcKuid_": "4d16f85d3c7545c2af7861e4b1b7383f",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "imglogo"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "id": "flexFAQsAndSupport",
+        "layoutType": 3,
+        "snapGridSize": 10,
+        "snapToGrid": true
+    },
+    "id": "flexFAQsAndSupport",
+    "instanceOf": "4d16f85d3c7545c2af7861e4b1b7383f",
+    "isvisible": true,
+    "kuid": "m909f8e3dfa2426d999aa5fd88f7e9f5",
+    "layouttype": 3,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexMenu",
+    "pf": "frmMyNotes",
+    "topLevelInstanceKUID": "m8459c4437544cb98edd8059c825d59e",
+    "wType": "FlexContainer"
+}

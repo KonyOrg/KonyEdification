@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "2d4b3f118a9b4877a95788be19c5601c",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem3",
+        "text": "My Tests",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem3",
+    "instanceOf": "2d4b3f118a9b4877a95788be19c5601c",
+    "isvisible": true,
+    "kuid": "m4042469458148a2b2e60b41a5716a1b",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem3",
+    "pf": "frmMyReminders",
+    "topLevelInstanceKUID": "m03dff12ea0449f2a9d5f20467980d9c",
+    "wType": "Label"
+}

@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s67e821f90364f69ac60d132b0e351de",
+    "_text_": "Registration",
+    "_width_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mb4560cbf3a04fbc97daf84529fd2be4",
+        "m0b3d4d33bab42e5b950b455bc6d4b98"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblTitle",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "f256f5e0eba14c3a885534d66d7be4d4",
+    "name": "kony.ui.Label",
+    "parent": "flexHeaderWithoutHamburgerMenu",
+    "pf": "masterHeaderWithoutHamburgerMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

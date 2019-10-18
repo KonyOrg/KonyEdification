@@ -1,0 +1,42 @@
+{
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "dee4ff4f3442496f87d897a8a1bb74fc",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "99%"
+        },
+        "id": "imgShare",
+        "imageScaleMode": 1,
+        "right": {
+            "type": "string",
+            "value": "2%"
+        },
+        "src": "share.png",
+        "top": {
+            "type": "string",
+            "value": "3dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "5%"
+        },
+        "zIndex": 1
+    },
+    "id": "imgShare",
+    "instanceOf": "dee4ff4f3442496f87d897a8a1bb74fc",
+    "isvisible": true,
+    "kuid": "mf9ff6cd29ff4a3faa850f3d97ebba0f",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexHeaderWithoutHamburgerMenu",
+    "pf": "frmLogin",
+    "topLevelInstanceKUID": "mb38c7c2a52f42c99f3e329fa00d2c18",
+    "wType": "Image"
+}

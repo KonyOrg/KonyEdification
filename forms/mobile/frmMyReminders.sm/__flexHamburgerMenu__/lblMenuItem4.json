@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "097f456e700f42a5b4f95af1fe895317",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem4",
+        "text": "My Notes",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem4",
+    "instanceOf": "097f456e700f42a5b4f95af1fe895317",
+    "isvisible": true,
+    "kuid": "m7ddd38a5b984dcc911c47094f9c9a2e",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem4",
+    "pf": "frmMyReminders",
+    "topLevelInstanceKUID": "m03dff12ea0449f2a9d5f20467980d9c",
+    "wType": "Label"
+}

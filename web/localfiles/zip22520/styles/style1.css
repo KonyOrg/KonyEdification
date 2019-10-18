@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+    padding:0;
+    margin:0;
+}
+
+
+#con {
+    height: auto;
+max-width: 100%;
+    overflow: hidden;
+    display: block;
+}
+#row {
+    width: 50%;
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+}
+.left {
+    float: left;
+    overflow: hidden;
+    display: block;
+    width: 100px;
+}
+
+
+header
+{
+	width:100%;
+	overflow:hidden;
+	display:block;
+	background:#000;
+	height:100px;
+}
+
+.flexbox-container > div {
+    width: 250px;
+    min-height: 250px;
+	background-color:#FFF;
+    padding: 10px;
+}
+.flexbox-container > div:first-child {
+    margin-right: 20px;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:#000;
+    overflow: hidden;
+    display: block;
+    padding-top: 10px;
+}
+img
+{
+	height:auto;
+	max-width:100%;
+}
+.image1
+{
+	height:128px;
+	width:128px;
+	overflow:hidden;
+	display:block;
+}
+.flexbox-container {
+    padding: 20px;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    width: 500px;
+    margin: 0 auto;
+  
+    margin-top: 20px;
+}
+.container1
+{
+	 padding: 20px;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    width: 150px;
+    margin: 0 auto;
+    background-color: #f6f6f6;
+    margin-top: 20px;
+}
+.container1 > div {
+    width: 100px;
+    min-height: 100px;
+	background-color:#FFF;
+    padding: 10px;
+	margin:0 auto;
+}

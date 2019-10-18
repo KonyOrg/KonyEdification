@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "3d70f440cd0640989daf244c9a164cfb",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imglogo",
+        "imageScaleMode": 1,
+        "src": "konylogo1.png"
+    },
+    "id": "imglogo",
+    "instanceOf": "3d70f440cd0640989daf244c9a164cfb",
+    "isvisible": true,
+    "kuid": "m335b660d6974297b8252cc9ddbf272d",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexFAQsAndSupport",
+    "pf": "frmMyNotes",
+    "topLevelInstanceKUID": "m8459c4437544cb98edd8059c825d59e",
+    "wType": "Image"
+}

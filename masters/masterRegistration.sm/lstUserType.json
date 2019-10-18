@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "User Type",
+    "_skin_": "sed37b1ab25647bda85572d008c20b60",
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "android": {
+        "psp": {
+            "placeholderSkin": "s8e15ec9ce76452fafbfb168161584de"
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "masterRegistration",
+        "platform": "iphone",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "dropdownimage": "downarrow.png",
+    "groupcells": false,
+    "id": "lstUserType",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bdb99160bd104995a4be0b95e6667b88",
+    "masterdata": [
+        [
+            "usertype1",
+            "Designer"
+        ],
+        [
+            "usertype2",
+            "Developer"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flexUserType",
+    "pf": "masterRegistration",
+    "selectedkey": "usertype1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "usertype1",
+        "Designer"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

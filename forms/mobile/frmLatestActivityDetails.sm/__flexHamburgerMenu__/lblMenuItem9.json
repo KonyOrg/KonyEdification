@@ -1,0 +1,34 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "7bbfca1caa0346628cdfe1e9a692f521",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblMenuItem9",
+        "text": "Video Tutorials",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem9",
+    "instanceOf": "7bbfca1caa0346628cdfe1e9a692f521",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m57471d50c6b4e5cbbeaeda240df6d34",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem9",
+    "pf": "frmLatestActivityDetails",
+    "topLevelInstanceKUID": "m03402c8947b4c618a2cb84f7978222e",
+    "wType": "Label"
+}

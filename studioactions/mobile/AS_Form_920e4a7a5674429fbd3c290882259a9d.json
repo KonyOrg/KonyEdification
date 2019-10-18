@@ -1,0 +1,34 @@
+{
+    "AS_Form_920e4a7a5674429fbd3c290882259a9d": {
+        "id": "AS_Form_920e4a7a5674429fbd3c290882259a9d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegistration",
+            "type": "forms",
+            "platform": "",
+            "KUID": "78a7d32b127c4a7a8700a4caa7e23c5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ea307188e93e4086a12cdb6204603b18",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismissMessage",
+            "display": "dismissMessage",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET__0af50229817247cbbf7e1f31ee0086f1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmRegistration.flexUserName.skin = sknFlex5;\nfrmRegistration.flexEmailID.skin = sknFlex5;\nfrmRegistration.flexPassword.skin = sknFlex5;\nfrmRegistration.flexConfirmPassword.skin = sknFlex5;\nfrmRegistration.flexPhone.skin = sknFlex5;\nfrmRegistration.flexUserType.skin = sknFlex5;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

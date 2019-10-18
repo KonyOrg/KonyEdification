@@ -1,0 +1,72 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_src_": "menu.png",
+    "_width_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m6a67fb475c14745a05c8db150e6416c",
+        "me9f3ffa51574a54a5c8e9aecbdfed83",
+        "m35674683e7a402d86818fce6527461c",
+        "mc405bd7904c461aa75b7ce0e3b9bc8b",
+        "m633c51c17b740999faa68161c2c5107",
+        "m6977c61113c4c2ea838d47c2c0877b4",
+        "m4d61a4df7d0472a80eba2f3c5b49964",
+        "m66e66a14dce40409a5a2034246f0a1c",
+        "md29f268bb0b460e80da2d006fb69bd2",
+        "mecd87493fa4415f851c090035ecd796",
+        "m96c3820703a4c2ca6f1a812a6bd1250",
+        "m460e257bc0c48e48993f6d735010379"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "masterHeader",
+        "platform": "iphone",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgMenu",
+    "ide_onTouchEnd": "AS_Image_d287902d2cdc4cc0b20d2550d8594123",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "ed4cf5f0a45a4fcfae665ff08c00a785",
+    "name": "kony.ui.Image2",
+    "parent": "flexHeader",
+    "pf": "masterHeader",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

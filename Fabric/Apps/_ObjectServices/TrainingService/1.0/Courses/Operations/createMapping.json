@@ -1,0 +1,38 @@
+{
+  "operationConfig" : {
+    "name" : "createCourses5851",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "authorized_app_user",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "create",
+    "relationshipHierarchyMapping" : {
+      "selected" : true,
+      "name" : "Courses",
+      "children" : [ {
+        "children" : [ ],
+        "name" : "Modules",
+        "actions" : {
+          "create" : true,
+          "update" : true,
+          "partialupdate" : true
+        },
+        "selected" : true
+      } ],
+      "actions" : {
+        "create" : true,
+        "update" : true,
+        "partialupdate" : true
+      }
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "0e3f96801f984abe8a68ea670fb04d0d",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblUserName"
+    },
+    "id": "lblUserName",
+    "instanceOf": "0e3f96801f984abe8a68ea670fb04d0d",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m93aaf541b724412b43c73a0390e1042",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexUserProfile",
+    "pf": "frmCourseSelection",
+    "topLevelInstanceKUID": "m92df89faf85433d8b307f0feddae1d8",
+    "wType": "Label"
+}

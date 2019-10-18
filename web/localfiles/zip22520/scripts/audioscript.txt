@@ -1,0 +1,39 @@
+<!--superb-->   
+<audio  id="superb" src="audio/Superb.mp3"></audio>
+                              <img src="img/AlphaIndividual/BB.png" onclick="document.getElementById('superb').play()">
+<!--hurray--> 
+<audio  id="hurray" src="audio/Hurray.mp3"></audio>
+                              <img src="img/AlphaIndividual/SS.png" onclick="document.getElementById('hurray').play()">
+<!--good--> 
+ <audio  id="verygood" src="audio/VeryGood.mp3"></audio>
+                              <img src="img/AlphaIndividual/DD.png" onclick="document.getElementById('verygood').play()">
+<!--amazing-->
+ <audio  id="amazing" src="audio/Amazing.mp3"></audio>
+                              <img src="img/AlphaIndividual/UU.png" onclick="document.getElementById('amazing').play()">
+<!--cool-->
+<audio  id="cool" src="audio/Cool.mp3"></audio>
+                                <img src="img/AlphaIndividual/WW.png" onclick="document.getElementById('cool').play()">
+
+<!--fab-->
+ <audio  id="fabulous" src="audio/Fabulous.mp3"></audio>
+                                <img src="img/AlphaIndividual/RR.png" onclick="document.getElementById('fabulous').play()">
+
+<!--grate-->
+ <audio  id="grate" src="audio/Great.mp3"></audio>
+                              <img src="img/AlphaIndividual/MM.png" onclick="document.getElementById('grate').play()">
+<!--Wow-->
+
+ <audio  id="wow" src="audio/WowClickNext.mp3"></audio>
+                              <img src="img/AlphaIndividual/PP.png" onclick="document.getElementById('wow').play()">
+
+
+<!--rockstar-->
+
+ <audio  id="rockstar" src="audio/RockStar.mp3"></audio>
+                              <img src="img/AlphaIndividual/NN.png" onclick="document.getElementById('rockstar').play()">
+<!--correct-->
+ <audio  id="correct" src="audio/CorrectOnly.mp3"></audio>
+                              <img src="img/AlphaIndividual/YY.png" onclick="document.getElementById('correct').play()">
+<!--fantastic-->
+ <audio  id="fantastic" src="audio/Fantastic.mp3"></audio>
+                                <img src="img/AlphaIndividual/EE.png" onclick="document.getElementById('fantastic').play()">

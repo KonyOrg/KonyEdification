@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Name",
+    "_skin_": "s3d88f9f7160402b9c466de7870155cc",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "autocapitalize": "words",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [],
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s3d88f9f7160402b9c466de7870155cc",
+    "id": "tbxUserName",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "f4062d083556464e86a58e0bb3220cb3",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flexUserName",
+    "pf": "masterRegistration",
+    "placeholderskin": "s7aa2cd30c8a43298328eb3b74d56ba1",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

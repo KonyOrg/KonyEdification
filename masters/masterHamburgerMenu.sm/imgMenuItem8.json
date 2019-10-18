@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_src_": "newsletters.png",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "md5024bc750e415caeb1e4794caf4d83",
+        "mc2c17126f5141658b898756bbe46157",
+        "mf2bcfb9b1e74d19809a8531254740ba",
+        "m2e1b48fb54e43219fc8bfcd92f11107",
+        "m0f32618015345c99bf183d17e0025d7",
+        "mab23aa73feb487bbc9f4bbf1b0d960a",
+        "mfd6556475fe48e68640c58008039468",
+        "m4d6fe8112b043fabf704ed28eae7e49",
+        "m3f85c9fce9343b68caf1e7edc2e77a6",
+        "m3330018f6204cf08d04f5d70c5dfebc",
+        "m73f5784f2b84fbd8f1ad2c1b3b4c796",
+        "md5507b50574414ca0ba5777d0c0bb84"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "masterHamburgerMenu",
+        "platform": "android",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgMenuItem8",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "8c63f57ea3c147bb87b9743d4edd3606",
+    "name": "kony.ui.Image2",
+    "parent": "flexMenuItem8",
+    "pf": "masterHamburgerMenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

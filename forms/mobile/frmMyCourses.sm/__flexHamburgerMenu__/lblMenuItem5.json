@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "d31db5e8f711491bb38aec4f7b5a0f1b",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem5",
+        "text": "My Reminders",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem5",
+    "instanceOf": "d31db5e8f711491bb38aec4f7b5a0f1b",
+    "isvisible": true,
+    "kuid": "maaf42b2997a407f9d0039336d102e58",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem5",
+    "pf": "frmMyCourses",
+    "topLevelInstanceKUID": "m11c99a9003d4c159ac57f1ffa4692f1",
+    "wType": "Label"
+}

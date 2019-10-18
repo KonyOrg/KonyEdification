@@ -1,0 +1,21 @@
+{
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "dee4ff4f3442496f87d897a8a1bb74fc",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgShare"
+    },
+    "id": "imgShare",
+    "instanceOf": "dee4ff4f3442496f87d897a8a1bb74fc",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "mf046a85d6964d3293024716c20a20a7",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexHeaderWithoutHamburgerMenu",
+    "pf": "frmRegistration",
+    "topLevelInstanceKUID": "mc86fb6851d248a7aedb72d5dfc96032",
+    "wType": "Image"
+}

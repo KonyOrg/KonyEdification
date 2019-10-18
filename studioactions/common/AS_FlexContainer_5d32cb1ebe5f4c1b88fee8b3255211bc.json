@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_5d32cb1ebe5f4c1b88fee8b3255211bc": {
+        "id": "AS_FlexContainer_5d32cb1ebe5f4c1b88fee8b3255211bc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterHamburgerMenu",
+            "type": "masters",
+            "KUID": "40fb23802ab74a8bb4c1179b828946f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e08a6fbb13f0497b89c9c7d3c5f34041",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "resetHamburgerMenuSelection(eventobject);\ncloseHamburgerMenu ();\nfrmMyNotes.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

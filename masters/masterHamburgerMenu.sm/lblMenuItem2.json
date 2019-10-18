@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_text_": "My Programs",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m9be6edfa7db40c9870a03f6d1f27b15",
+        "m49881d2d91147fa9882c7cb025e8e50",
+        "mf72dd22c958455a8d9590b8f1d636df",
+        "m5c87563083e40d591115ed567b97ebd",
+        "m07527dd1e3f472abc3b7c05fe734c58",
+        "m40a0944427945b5a0478675f339917c",
+        "m67b7f5eeeed4efcab978e105aa409a0",
+        "m848b7a95b9348358d652e2de981dc36",
+        "md53a52e07f44c0c9f8f3112e08e6b5d",
+        "m44e744eb8f64bc984930959944d35b8",
+        "m892e6ce04124fb2bfc6fce7c58103c7",
+        "m354ffdd30c443ada67d1fcab59230b0"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblMenuItem2",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "da2c1af28b8349d7873037829e605e22",
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem2",
+    "pf": "masterHamburgerMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

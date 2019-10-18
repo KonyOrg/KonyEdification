@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa1a9fd93a924ac9a75d075d19d7b9cb",
+    "_srcKuid_": "m6d7aef171b747bc82ba329364726a19",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "flexMenu"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "id": "flexHamburgerMenu",
+        "layoutType": 2,
+        "snapGridSize": 10,
+        "snapToGrid": true
+    },
+    "id": "flexHamburgerMenu",
+    "ide_preShow": "AS_FlexContainer_fb61374ce0a7470abb2cc4e0e876e522",
+    "instanceOf": "m6d7aef171b747bc82ba329364726a19",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "m03dff12ea0449f2a9d5f20467980d9c",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmMyReminders",
+    "pf": "frmMyReminders",
+    "vizProps": {
+        "hidewidgethierarchy": true
+    },
+    "wType": "FlexContainer"
+}

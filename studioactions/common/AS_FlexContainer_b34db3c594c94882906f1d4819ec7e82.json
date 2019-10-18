@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_b34db3c594c94882906f1d4819ec7e82": {
+        "id": "AS_FlexContainer_b34db3c594c94882906f1d4819ec7e82",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterHamburgerMenu",
+            "type": "masters",
+            "KUID": "40fb23802ab74a8bb4c1179b828946f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3abef97f22f343458a257323e6da3c84",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "gblSelectedHamburgerMenuItem = eventobject.id;\ncloseHamburgerMenu ();\nfrmDashboard.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

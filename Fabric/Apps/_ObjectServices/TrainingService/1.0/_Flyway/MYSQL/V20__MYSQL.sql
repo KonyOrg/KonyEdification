@@ -1,0 +1,2 @@
+ALTER TABLE `LatestActivites`
+	MODIFY `URL` VARCHAR(500) NOT NULL;

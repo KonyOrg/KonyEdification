@@ -1,0 +1,2 @@
+ALTER TABLE `Users`
+	ADD `Phone` VARCHAR(10) NOT NULL;

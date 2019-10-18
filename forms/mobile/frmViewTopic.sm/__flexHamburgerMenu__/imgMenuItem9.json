@@ -1,0 +1,34 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "5ab37d5cc1044033812397ff88e37d6c",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imgMenuItem9",
+        "imageScaleMode": 1,
+        "src": "videotutorials.png"
+    },
+    "id": "imgMenuItem9",
+    "instanceOf": "5ab37d5cc1044033812397ff88e37d6c",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m83d7fd15fcf4bcbbb7487c7e4d61d00",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexMenuItem9",
+    "pf": "frmViewTopic",
+    "topLevelInstanceKUID": "ma6d04610d5c48a1bc2456647ca1cc99",
+    "wType": "Image"
+}

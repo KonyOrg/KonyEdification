@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Phone",
+    "_skin_": "s5bcaabd6ac04ffca2447b4212c3b576",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "android": {
+        "psp": {
+            "keyboardActionLabel": 4
+        }
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s5bcaabd6ac04ffca2447b4212c3b576",
+    "id": "tbxPhone",
+    "ide_onTouchStart": "AS_TextField_f233fbfca25641dcb774cc363975ea6e",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "keyboardActionLabel": 4,
+            "pasteboardType": 1,
+            "showCloseButton": false,
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardstyle": "telpad",
+    "keyboardtype": "A",
+    "kuid": "cc396a22da62455b9699d7554a569710",
+    "maxtextlength": 10,
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "parent": "flexPhone",
+    "pasteboardtype": 1,
+    "pf": "frmRegistration",
+    "placeholderskin": "s7aa2cd30c8a43298328eb3b74d56ba1",
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "textinputmode": "N",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

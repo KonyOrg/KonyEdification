@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "22b4cf141c194e9c8110be60d4f190e9",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem7",
+        "text": "Course Selection",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem7",
+    "instanceOf": "22b4cf141c194e9c8110be60d4f190e9",
+    "isvisible": true,
+    "kuid": "m995d4bc4e334a12824d137ccd2e66af",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem7",
+    "pf": "frmMyTests",
+    "topLevelInstanceKUID": "m43ffd61a2ab4f80bfa0f30de2404872",
+    "wType": "Label"
+}

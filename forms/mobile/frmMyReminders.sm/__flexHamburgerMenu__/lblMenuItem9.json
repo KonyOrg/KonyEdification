@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "7bbfca1caa0346628cdfe1e9a692f521",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem9",
+        "text": "Video Tutorials",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem9",
+    "instanceOf": "7bbfca1caa0346628cdfe1e9a692f521",
+    "isvisible": true,
+    "kuid": "mffcf1b1267a4f00be0c18b79fa05f7b",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem9",
+    "pf": "frmMyReminders",
+    "topLevelInstanceKUID": "m03dff12ea0449f2a9d5f20467980d9c",
+    "wType": "Label"
+}

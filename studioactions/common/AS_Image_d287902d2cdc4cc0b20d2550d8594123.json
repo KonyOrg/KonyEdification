@@ -1,0 +1,33 @@
+{
+    "AS_Image_d287902d2cdc4cc0b20d2550d8594123": {
+        "id": "AS_Image_d287902d2cdc4cc0b20d2550d8594123",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "masterHeader",
+            "type": "masters",
+            "KUID": "420fe198ed5f435c89a26739a3612bdb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7bc400307fe5492f8206e415dc75fccf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "openHamburgerMenu",
+            "display": "openHamburgerMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

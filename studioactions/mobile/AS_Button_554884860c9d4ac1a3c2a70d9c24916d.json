@@ -1,0 +1,41 @@
+{
+    "AS_Button_554884860c9d4ac1a3c2a70d9c24916d": {
+        "id": "AS_Button_554884860c9d4ac1a3c2a70d9c24916d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e62d993f3e244ea1b6646bab14f046a4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7ef59f25f9244f9da2116ce0cad146e6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetLoginForm",
+            "display": "resetLoginForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "NAVIGATE_TO_FORM___aec806a946c24889aa77ae66609e660f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "formKUID": "ae9f34d724404e51a2ba8f9729b73856",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnRegisteredUser\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s311e3ff93284aedb8291fdb77acdc12",
+    "_srcKuid_": "652ad3597bcc4e0e94671dedaf2b6a56",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "flexUserProfile",
+        "flexScrollMenuOptions",
+        "flexFAQsAndSupport"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "id": "flexMenu"
+    },
+    "id": "flexMenu",
+    "instanceOf": "652ad3597bcc4e0e94671dedaf2b6a56",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m1c549d93b9b4676ad4c9dc6104f7128",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexHamburgerMenu",
+    "pf": "frmCourseSelection",
+    "topLevelInstanceKUID": "m92df89faf85433d8b307f0feddae1d8",
+    "wType": "FlexContainer"
+}

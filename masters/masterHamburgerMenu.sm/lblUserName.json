@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "109dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10c98b7a4b848b8b7023515f09b16fb",
+    "_text_": "Pico Rech",
+    "_top_": {
+        "type": "string",
+        "value": "140dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "86.67%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m93aaf541b724412b43c73a0390e1042",
+        "mf65d7a6bcde4e0f92923b64046839d8",
+        "mab89357476f4e86a1570b55ebb4f41f",
+        "m2a8d5d6295449ef9c854c05ae211623",
+        "m8bb3483bb21426e9bbfb2d8300c9ab4",
+        "mb4974805152442aad2ae1646caa4f8c",
+        "m1380dd88bb94184a3125381eb67c0fe",
+        "m1939bc4b22445ca9b6742d4cd8dfba2",
+        "me0369ab513e4a97a25a168942590a1e",
+        "m3a3954b61c548fba21267d5c3aa4ea1",
+        "md89d5171e214c749649ec3e877cec94",
+        "m568b3e9f8b745ebabd51a1f0456c28d"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblUserName",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "0e3f96801f984abe8a68ea670fb04d0d",
+    "name": "kony.ui.Label",
+    "parent": "flexUserProfile",
+    "pf": "masterHamburgerMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

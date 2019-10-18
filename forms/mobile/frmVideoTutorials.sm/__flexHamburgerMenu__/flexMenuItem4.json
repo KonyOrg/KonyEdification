@@ -1,0 +1,39 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0a74828bffc493385f11fdd3f526903",
+    "_srcKuid_": "f6218c2b89604ea490d2c1bf537c3a63",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "imgMenuItem4",
+        "lblMenuItem4",
+        "flexSelectedIndicator4"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "id": "flexMenuItem4",
+        "layoutType": 2,
+        "snapGridSize": 10,
+        "snapToGrid": true
+    },
+    "id": "flexMenuItem4",
+    "ide_onClick": "AS_FlexContainer_e4f649de018045c8ae5b4dfc388cab3b",
+    "instanceOf": "f6218c2b89604ea490d2c1bf537c3a63",
+    "isvisible": true,
+    "kuid": "ma205e55d9404a3586cf08b4f1631f00",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flexScrollMenuOptions",
+    "pf": "frmVideoTutorials",
+    "topLevelInstanceKUID": "m4bc1830c32840a384bc03b32667c507",
+    "wType": "FlexContainer"
+}

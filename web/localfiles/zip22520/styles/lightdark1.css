@@ -1,0 +1,149 @@
+@charset "utf-8";
+/* CSS Document */
+#fullcontainer {
+	overflow: hidden;
+	display: block;
+	max-width: 100%;
+
+	margin-top: 15px;
+	margin-right: 10px;
+	margin-left: 10px;
+	height:auto;
+}
+body {
+	font-family: 'Rob';
+	margin: 0;
+	padding: 0;
+}
+#fullcontainer .vidnum1 {
+	width: 20%;
+	overflow: hidden;
+	display: block;
+	float: left;
+	background-color:#FF9F55;
+	height:auto;
+	opacity:0.5;
+	
+}
+#fullcontainer .vname1 {
+	max-width: 80%;
+	min-width: 80%;
+	overflow: hidden;
+	display: block;
+	float: left;
+	background-color:#34495E;
+	opacity:0.5;
+}
+
+
+#fullcontainer .vidnum {
+	width: 20%;
+	overflow: hidden;
+	display: block;
+	float: left;
+	background-color: #FF9F55;
+	height:auto;
+	
+}
+#fullcontainer .vname {
+	max-width: 80%;
+	min-width: 80%;
+	overflow: hidden;
+	display: block;
+	float: left;
+	background-color: #34495E;
+}
+.text {
+	overflow: hidden;
+	display: block;
+	float: left;
+	text-align: center;
+}
+.images {
+	height: auto;
+	float: left;
+	margin: 0 auto;
+}
+.img1 {
+	float: left;
+	width: 100%;
+	height: auto;
+}
+img {
+	max-width: 100%;
+	display: block;
+}
+.bold {
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	overflow: hidden;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.demo {
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	overflow: hidden;
+	display: block;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+.vidnum p
+{
+	
+color:	white;
+font-size:16px;
+margin-top:12px;
+margin-bottom:12px;
+font-family: 'Rob';
+	
+
+}
+
+
+.vname p
+{
+
+color:	white;
+font-size:16px;
+line-height:none;
+margin-top:12px;
+margin-bottom:12px;
+font-weight:100;
+	
+}
+
+
+.vidnum1 p
+{
+	
+color:	white;
+font-size:16px;
+margin-top:12px;
+margin-bottom:12px;
+font-family: 'Rob';
+	
+
+}
+
+
+.vname1 p
+{
+
+color:	white;
+font-size:16px;
+line-height:none;
+margin-top:12px;
+margin-bottom:12px;
+font-weight:100;
+	
+}
+
+
+

@@ -1,0 +1,28 @@
+{
+    "AS_Form_0a839ec1d6594ad3b9d78716b3e8bb47": {
+        "id": "AS_Form_0a839ec1d6594ad3b9d78716b3e8bb47",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCourseSelection",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1a6d8db32e6a42e4b1f51a99aeee673f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b74edfeb367e4c24bf747838d5dfb817",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetHamburgerMenuSelection",
+            "display": "resetHamburgerMenuSelection",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

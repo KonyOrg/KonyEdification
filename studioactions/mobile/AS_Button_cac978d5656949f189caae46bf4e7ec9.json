@@ -1,0 +1,38 @@
+{
+    "AS_Button_cac978d5656949f189caae46bf4e7ec9": {
+        "id": "AS_Button_cac978d5656949f189caae46bf4e7ec9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmStartup",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e62d993f3e244ea1b6646bab14f046a4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___48f74d3113374b3ebcb8e549380a8ac9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resetRegistrationForm",
+            "display": "resetRegistrationForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___4a93a036c6344b429bbf2d0a8961d20b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "fetchUserTypes",
+            "display": "fetchUserTypes",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "99%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_src_": "share.png",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mf046a85d6964d3293024716c20a20a7",
+        "mf9ff6cd29ff4a3faa850f3d97ebba0f"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "masterHeaderWithoutHamburgerMenu",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgShare",
+    "ide_onTouchEnd": "AS_Image_1b552b8d2cf8482884214dda4fa87716",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "dee4ff4f3442496f87d897a8a1bb74fc",
+    "name": "kony.ui.Image2",
+    "parent": "flexHeaderWithoutHamburgerMenu",
+    "pf": "masterHeaderWithoutHamburgerMenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,30 @@
+{
+    "AS_TextField_f233fbfca25641dcb774cc363975ea6e": {
+        "id": "AS_TextField_f233fbfca25641dcb774cc363975ea6e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmRegistration",
+            "type": "forms",
+            "platform": "",
+            "KUID": "78a7d32b127c4a7a8700a4caa7e23c5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3841225cde404e6f8297b72681d58b88",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmRegistration.flexPhone.skin = sknFlex5;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

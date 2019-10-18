@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_text_": "Video Tutorials",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m4de423263244da99b45467afb2ccb4c",
+        "mfe176f9200f4ffda99690de5184e89c",
+        "m57471d50c6b4e5cbbeaeda240df6d34",
+        "m2b43bcc2944440484b317adbc59fc11",
+        "m62c01c6ec58421ab12595c6da168fbd",
+        "mb846efca8cd4095add5f60c317d34ed",
+        "mb5019a020a64280a6a992e4f771fe41",
+        "mffcf1b1267a4f00be0c18b79fa05f7b",
+        "m3b49df28eff4a538ff4191f987d4e4c",
+        "m219bf357f78422bbe25a338d7f61bd7",
+        "mde745af582140f38614a3741d86bf26",
+        "mc7cf806a61644759c7f4ec448a15e1d"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblMenuItem9",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "7bbfca1caa0346628cdfe1e9a692f521",
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem9",
+    "pf": "masterHamburgerMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

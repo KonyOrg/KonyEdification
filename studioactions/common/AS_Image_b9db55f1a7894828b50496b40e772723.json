@@ -1,0 +1,29 @@
+{
+    "AS_Image_b9db55f1a7894828b50496b40e772723": {
+        "id": "AS_Image_b9db55f1a7894828b50496b40e772723",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "masterHeaderWithoutHamburgerMenu",
+            "type": "masters",
+            "KUID": "dc0e2dd0adb34f07b45785713931a975"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__83e0ea97ed8d4aefbc8eb7e090e23a82",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmStartup.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,40 @@
+{
+  "operationConfig" : {
+    "name" : "updateCourses5914",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "authorized_app_user",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "update",
+    "relationshipHierarchyMapping" : {
+      "selected" : true,
+      "name" : "Courses",
+      "children" : [ {
+        "children" : [ ],
+        "name" : "Modules",
+        "actions" : {
+          "create" : true,
+          "update" : true,
+          "partialupdate" : true,
+          "delete" : true
+        },
+        "selected" : true
+      } ],
+      "actions" : {
+        "create" : true,
+        "update" : true,
+        "partialupdate" : true,
+        "delete" : true
+      }
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  }
+}

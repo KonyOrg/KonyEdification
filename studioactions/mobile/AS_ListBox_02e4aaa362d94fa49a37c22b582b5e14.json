@@ -1,0 +1,24 @@
+{
+    "AS_ListBox_02e4aaa362d94fa49a37c22b582b5e14": {
+        "id": "AS_ListBox_02e4aaa362d94fa49a37c22b582b5e14",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmRegistration",
+            "type": "forms",
+            "platform": "",
+            "KUID": "78a7d32b127c4a7a8700a4caa7e23c5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a336afc889464290bebf7a4c822dc23d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if (frmRegistration.lstUserType.selectedKey != \"0\")\n  frmRegistration.flexUserType.skin = sknFlex5;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

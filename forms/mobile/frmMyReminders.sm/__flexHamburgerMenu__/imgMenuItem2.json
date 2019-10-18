@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "28362797638546f18c0f91a949f9aab7",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgMenuItem2",
+        "imageScaleMode": 1,
+        "src": "programs.png"
+    },
+    "id": "imgMenuItem2",
+    "instanceOf": "28362797638546f18c0f91a949f9aab7",
+    "isvisible": true,
+    "kuid": "md588daa5a1f4b4f9e6290ed3b702ac7",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexMenuItem2",
+    "pf": "frmMyReminders",
+    "topLevelInstanceKUID": "m03dff12ea0449f2a9d5f20467980d9c",
+    "wType": "Image"
+}

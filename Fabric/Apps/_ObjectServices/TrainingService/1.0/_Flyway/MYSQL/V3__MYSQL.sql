@@ -1,0 +1,2 @@
+ALTER TABLE `Users`
+	ADD `Password` VARCHAR(20) NOT NULL;

@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s67e821f90364f69ac60d132b0e351de",
+    "_srcKuid_": "2a47e67fba734822812eec010846d566",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblTitle",
+        "left": "50dp",
+        "text": "View Topic",
+        "textStyle": {},
+        "width": {
+            "type": "string",
+            "value": "75%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblTitle",
+    "instanceOf": "2a47e67fba734822812eec010846d566",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m630673ae9234012997ac6c1a064813c",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexHeader",
+    "pf": "frmViewTopic",
+    "topLevelInstanceKUID": "m18305a529b4477f8e19e5274540b3b8",
+    "wType": "Label"
+}

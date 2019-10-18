@@ -1,0 +1,34 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "2d4b3f118a9b4877a95788be19c5601c",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblMenuItem3",
+        "text": "My Tests",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem3",
+    "instanceOf": "2d4b3f118a9b4877a95788be19c5601c",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "maa486a651d64b6a9b3395f2650d4456",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem3",
+    "pf": "frmTopicsInAModule",
+    "topLevelInstanceKUID": "m7f7ae8bf9ff496baac953895ba52955",
+    "wType": "Label"
+}

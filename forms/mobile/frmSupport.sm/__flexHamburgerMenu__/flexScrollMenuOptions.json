@@ -1,0 +1,52 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa0343b1be124f3ba9a2fca10d2e42fc",
+    "_srcKuid_": "6c37e04fff8e4cec967c6ca7e95503db",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "children": [
+        "flexMenuItem1",
+        "flexMenuItem2",
+        "flexMenuItem3",
+        "flexMenuItem4",
+        "flexMenuItem5",
+        "flexMenuItem6",
+        "flexMenuItem7",
+        "flexMenuItem8",
+        "flexMenuItem9",
+        "flexMenuItem10"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "allowHorizontalBounce": false,
+        "allowVerticalBounce": true,
+        "bounces": true,
+        "clipBounds": true,
+        "enableScrolling": true,
+        "horizontalScrollIndicator": true,
+        "id": "flexScrollMenuOptions",
+        "layoutType": 2,
+        "pagingEnabled": false,
+        "scrollDirection": 2,
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "verticalScrollIndicator": true
+    },
+    "id": "flexScrollMenuOptions",
+    "instanceOf": "6c37e04fff8e4cec967c6ca7e95503db",
+    "isvisible": true,
+    "kuid": "m93babebc8ce48598e4b86990109ea8c",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexScrollContainer",
+    "parent": "flexMenu",
+    "pf": "frmSupport",
+    "topLevelInstanceKUID": "mb38d3672eae4032a7b1bc3afe73de5f",
+    "wType": "FlexScrollContainer"
+}

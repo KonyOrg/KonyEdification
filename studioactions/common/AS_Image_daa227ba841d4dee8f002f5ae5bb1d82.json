@@ -1,0 +1,33 @@
+{
+    "AS_Image_daa227ba841d4dee8f002f5ae5bb1d82": {
+        "id": "AS_Image_daa227ba841d4dee8f002f5ae5bb1d82",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "masterHeader",
+            "type": "masters",
+            "KUID": "420fe198ed5f435c89a26739a3612bdb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___6033fa89b89e4be8bbf3dae30f4a55e7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getDeviceInfoAndShare",
+            "display": "getDeviceInfoAndShare",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

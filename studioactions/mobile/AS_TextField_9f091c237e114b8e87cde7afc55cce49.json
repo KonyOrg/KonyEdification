@@ -1,0 +1,30 @@
+{
+    "AS_TextField_9f091c237e114b8e87cde7afc55cce49": {
+        "id": "AS_TextField_9f091c237e114b8e87cde7afc55cce49",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ae9f34d724404e51a2ba8f9729b73856"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__5782afc1321d47b2add5c851cf45264b",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLogin.flexPassword.skin = sknFlex5;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

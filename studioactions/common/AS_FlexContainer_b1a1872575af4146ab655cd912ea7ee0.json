@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_b1a1872575af4146ab655cd912ea7ee0": {
+        "id": "AS_FlexContainer_b1a1872575af4146ab655cd912ea7ee0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterHamburgerMenu",
+            "type": "masters",
+            "KUID": "40fb23802ab74a8bb4c1179b828946f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a25a4bd8239a4234b7449a9c635daad4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "resetHamburgerMenuSelection(eventobject);\ncloseHamburgerMenu ();\nfrmMyCourses.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

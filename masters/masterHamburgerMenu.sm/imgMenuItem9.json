@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_src_": "videotutorials.png",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m13275690a3e404588a41b903cc66098",
+        "m14cc7cbd987470fad631c62445e1f2a",
+        "mac611764bed426fbc5f0d3a840defd1",
+        "m34fa1c678464cefa74706e36a8597b8",
+        "m83d7fd15fcf4bcbbb7487c7e4d61d00",
+        "mf6f793bbada433b96a4926f57cd533d",
+        "me63120baccd4f789488e2830ea8c273",
+        "me7b2c4425754a3aa9b581f3fb15afaf",
+        "m38868e9dee5430fbd7099bc2f002961",
+        "mafa57b9428447eba662001f28b55dd2",
+        "m7609c6144ce42559305dc66e21474c5",
+        "mc37b1f2b5204e09a4d7f75062c307ea"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "masterHamburgerMenu",
+        "platform": "android",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgMenuItem9",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "5ab37d5cc1044033812397ff88e37d6c",
+    "name": "kony.ui.Image2",
+    "parent": "flexMenuItem9",
+    "pf": "masterHamburgerMenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

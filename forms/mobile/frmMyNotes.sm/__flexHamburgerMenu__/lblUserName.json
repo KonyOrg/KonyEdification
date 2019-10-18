@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s10c98b7a4b848b8b7023515f09b16fb",
+    "_srcKuid_": "0e3f96801f984abe8a68ea670fb04d0d",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblUserName",
+        "text": "Pico Rech",
+        "textStyle": {}
+    },
+    "id": "lblUserName",
+    "instanceOf": "0e3f96801f984abe8a68ea670fb04d0d",
+    "isvisible": true,
+    "kuid": "m1380dd88bb94184a3125381eb67c0fe",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexUserProfile",
+    "pf": "frmMyNotes",
+    "topLevelInstanceKUID": "m8459c4437544cb98edd8059c825d59e",
+    "wType": "Label"
+}

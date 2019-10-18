@@ -1,0 +1,10 @@
+{
+  "subType" : "customapp",
+  "description" : "KonyEdificationMF",
+  "version" : "1.0",
+  "objectSvcs" : [ {
+    "name" : "TrainingService",
+    "version" : "1.0",
+    "etag" : "a1108447-023b-401a-92e7-3232c8b4f2fa"
+  } ]
+}

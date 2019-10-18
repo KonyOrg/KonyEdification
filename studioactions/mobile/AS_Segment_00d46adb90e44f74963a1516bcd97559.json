@@ -1,0 +1,30 @@
+{
+    "AS_Segment_00d46adb90e44f74963a1516bcd97559": {
+        "id": "AS_Segment_00d46adb90e44f74963a1516bcd97559",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "44069db196444ed49ca816541bcf5bb5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__3b320671e5e0455fbabb55ae423446cf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLatestActivityDetails.browserLatestActivity.requestURLConfig = {URL:frmDashboard.segLatestActivites.selectedRowItems[0].url, requestMethod:constants.BROWSER_REQUEST_METHOD_GET};\nfrmLatestActivityDetails.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

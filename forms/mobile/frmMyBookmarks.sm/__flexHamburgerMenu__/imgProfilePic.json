@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "0c1604b73499441b86157c75650b5c64",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgProfilePic",
+        "imageScaleMode": 1,
+        "src": "profilepic.png"
+    },
+    "id": "imgProfilePic",
+    "instanceOf": "0c1604b73499441b86157c75650b5c64",
+    "isvisible": true,
+    "kuid": "m178f0deeae546fcbe75c2fe9a080804",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexUserProfile",
+    "pf": "frmMyBookmarks",
+    "topLevelInstanceKUID": "me235a7ff13a45239f8838019e4afb70",
+    "wType": "Image"
+}

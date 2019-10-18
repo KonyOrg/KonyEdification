@@ -1,0 +1,33 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "3f48c367eea94de28cec1a312ff7b410",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "context": {},
+    "dataDiffs": {
+        "id": "imgBack"
+    },
+    "id": "imgBack",
+    "ide_onTouchEnd": "AS_Image_c00e9f8efc98458897568a618e6eca75",
+    "instanceOf": "3f48c367eea94de28cec1a312ff7b410",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "m59a105d4f4245e7bc4e5bfe69789061",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexHeaderWithoutHamburgerMenu",
+    "pf": "frmRegistration",
+    "topLevelInstanceKUID": "mc86fb6851d248a7aedb72d5dfc96032",
+    "wType": "Image"
+}

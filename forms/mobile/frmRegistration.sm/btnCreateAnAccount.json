@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3e6fd2339e14a6d864f6879e0d5f2d0",
+    "_text_": "TERMS AND CONDITIONS",
+    "_top_": {
+        "type": "number",
+        "value": "15"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8715c2324d941c7b9014dc261c59c62",
+    "id": "btnCreateAnAccount",
+    "ide_onClick": "AS_Button_cbf0c77b87504fabbc18aa715f3cb679",
+    "info": null,
+    "isvisible": true,
+    "kuid": "47a6fd76f3834ed49c0dd8150ca3a935",
+    "name": "kony.ui.Button",
+    "parent": "flexRegistration",
+    "pf": "frmRegistration",
+    "wType": "Button",
+    "zindex": 1
+}

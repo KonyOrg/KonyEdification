@@ -1,0 +1,166 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgCourse": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "visualizer.png"
+            },
+            "lblCourse": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Designing with Visualizer 7.0"
+            }
+        },
+        {
+            "imgCourse": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "bootcamp.png"
+            },
+            "lblCourse": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Kony Developer Bootcamp 7.0"
+            }
+        },
+        {
+            "imgCourse": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "sync.png"
+            },
+            "lblCourse": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Developing Sync-Enabled Applications"
+            }
+        },
+        {
+            "imgCourse": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "sap.png"
+            },
+            "lblCourse": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Kony for SAP"
+            }
+        },
+        {
+            "imgCourse": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "emm.png"
+            },
+            "lblCourse": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Kony for EMM"
+            }
+        },
+        {
+            "imgCourse": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "mobilefabric.png"
+            },
+            "lblCourse": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Kony MobileFabric 7.0"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "05",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {
+        "CourseDescription": "text",
+        "CourseDetails": "text",
+        "CourseID": "text"
+    },
+    "id": "segAvailableCourses",
+    "ide_onRowClick": "AS_Segment_775ab2bea64949d78c69f851ec871e2e",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": false,
+    "kuid": "bfaaba9e251041a28c04097d87f6af16",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flexBlur",
+    "pf": "frmCourseSelection",
+    "retainselection": false,
+    "rowTemplateId": "836253c74a6242029c0930009410e29f",
+    "rowcounter": 5,
+    "rowfocusskin": "sc312d2f7ab14c9d8e1829faf7efeb59",
+    "rowskin": "sc312d2f7ab14c9d8e1829faf7efeb59",
+    "rowtemplate": "flexSegRow2",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sd1cd4edba4e4f40b1c0718dc801e4a5",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flexInnerContainer": "flexInnerContainer",
+        "flexSegRow2": "flexSegRow2",
+        "imgCourse": "imgCourse",
+        "lblCourse": "lblCourse",
+        "lblShadow": "lblShadow"
+    },
+    "widgetskin": "sd49b13396ef44968d2a3d07ba523389",
+    "zindex": 1
+}

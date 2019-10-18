@@ -1,0 +1,27 @@
+{
+  "operationConfig" : {
+    "name" : "deleteModules3719",
+    "type" : "MappedToBackend",
+    "cachable" : false,
+    "smsEnabled" : false,
+    "security" : "authorized_app_user",
+    "responseEncoding" : "UTF-8",
+    "httpMethod" : "GET",
+    "decodeResponseBody" : false,
+    "referencingEndpoint" : "default",
+    "applyCommonMapping" : true,
+    "applyRequestCommonMapping" : true,
+    "applyResponseCommonMapping" : true,
+    "opcode" : "delete",
+    "relationshipHierarchyMapping" : {
+      "selected" : true,
+      "name" : "Modules",
+      "children" : [ ],
+      "actions" : {
+        "delete" : true
+      }
+    },
+    "requestXmlMappingOverride" : false,
+    "responseXmlMappingOverride" : false
+  }
+}

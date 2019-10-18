@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "704ffe31917c4a74b30b58f9ab6a9763",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem8",
+        "text": "News Letters",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem8",
+    "instanceOf": "704ffe31917c4a74b30b58f9ab6a9763",
+    "isvisible": true,
+    "kuid": "m57b43cc2a7e4ee8984d51d27d095fbd",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem8",
+    "pf": "frmMyCourses",
+    "topLevelInstanceKUID": "m11c99a9003d4c159ac57f1ffa4692f1",
+    "wType": "Label"
+}

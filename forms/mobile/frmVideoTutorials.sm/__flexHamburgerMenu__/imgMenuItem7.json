@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s49ed8b030114204b81d92c659173023",
+    "_srcKuid_": "233eee71420f4f1c927e515cf8bb1c5f",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "imgMenuItem7",
+        "imageScaleMode": 1,
+        "src": "courseselection.png"
+    },
+    "id": "imgMenuItem7",
+    "instanceOf": "233eee71420f4f1c927e515cf8bb1c5f",
+    "isvisible": true,
+    "kuid": "m3eb97c967d0400cab7379e3fc1b5487",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexMenuItem7",
+    "pf": "frmVideoTutorials",
+    "topLevelInstanceKUID": "m4bc1830c32840a384bc03b32667c507",
+    "wType": "Image"
+}

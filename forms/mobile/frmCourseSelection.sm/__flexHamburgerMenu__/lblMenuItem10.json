@@ -1,0 +1,36 @@
+{
+    "__parentReadjusting__": false,
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "a4505731787b473394b90a3fa43583c9",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem10"
+    },
+    "id": "lblMenuItem10",
+    "instanceOf": "a4505731787b473394b90a3fa43583c9",
+    "isdatareferenced": true,
+    "isvisible": true,
+    "kuid": "mf2a9ca237bb41c4a243f0c14afdc587",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem10",
+    "pf": "frmCourseSelection",
+    "topLevelInstanceKUID": "m92df89faf85433d8b307f0feddae1d8",
+    "wType": "Label"
+}

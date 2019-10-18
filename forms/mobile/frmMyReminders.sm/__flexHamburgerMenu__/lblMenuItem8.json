@@ -1,0 +1,29 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5bf9d2bba9448f09484e691938c6d34",
+    "_srcKuid_": "704ffe31917c4a74b30b58f9ab6a9763",
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "id": "lblMenuItem8",
+        "text": "News Letters",
+        "textStyle": {}
+    },
+    "id": "lblMenuItem8",
+    "instanceOf": "704ffe31917c4a74b30b58f9ab6a9763",
+    "isvisible": true,
+    "kuid": "m8e7003d43cb4087b8c9f67c1ac2e470",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexMenuItem8",
+    "pf": "frmMyReminders",
+    "topLevelInstanceKUID": "m03dff12ea0449f2a9d5f20467980d9c",
+    "wType": "Label"
+}

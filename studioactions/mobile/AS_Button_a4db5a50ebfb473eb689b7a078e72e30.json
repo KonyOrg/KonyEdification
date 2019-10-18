@@ -1,0 +1,33 @@
+{
+    "AS_Button_a4db5a50ebfb473eb689b7a078e72e30": {
+        "id": "AS_Button_a4db5a50ebfb473eb689b7a078e72e30",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___55fa246780494aba83b84c48b73c6ae9",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmRegistration",
+            "widgetId": "btnCreateAnAccount",
+            "propertyName": "text",
+            "propertyValue": "SIGN UP",
+            "itemKUID": "78a7d32b127c4a7a8700a4caa7e23c5d",
+            "widgetKUID": "47a6fd76f3834ed49c0dd8150ca3a935",
+            "isSkinProperty": false,
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmRegistration.btnCreateAnAccount"
+        }, {
+            "id": "ADD_SNIPPET__64b36591d6154833b96590b8f7775a1e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmRegistration.btnCreateAnAccount.onClick = registerNewUser;\n//kony.store.setItem(\"isTermsAndConditionsAccepted\",true);\nfrmRegistration.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
